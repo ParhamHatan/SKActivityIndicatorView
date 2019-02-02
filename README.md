@@ -19,7 +19,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 - iOS 9.0+
 - Xcode 9.1+
-- Swift 4.0+
+- Swift 4.2+
 
 
 ## Installation
@@ -32,7 +32,7 @@ platform :ios, '9.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-pod 'SKActivityIndicatorView', '~> 0.1.0'
+pod 'SKActivityIndicatorView', '~> 0.2.0'
 end
 ```
 
